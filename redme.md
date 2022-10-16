@@ -5,4 +5,4 @@ phplite is a simple php framework
 
 ## to install it
 
-composer creat-project --prefer-dist hossam-mohamed/phplite blog
+composer create-project --prefer-dist hossam-mohamed/phplite blog
