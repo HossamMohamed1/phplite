@@ -2,7 +2,7 @@
 
 <head></head>
 <body>
-Hello from phplite
+Hello Welcome to Hossam Mohamed Framework
 </body>
 
 </html>
