@@ -4,6 +4,6 @@ namespace App\Controllers;
 
 class HomeController{
     public static function index(){
-        return view('home');
+        return view('dashboard');
     }
 }
